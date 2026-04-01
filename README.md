@@ -1,4 +1,4 @@
-# Creating an S3 bucket in AWS and host and estatic website
+# Creating an S3 bucket in AWS and host and static website
 -  ## Creating S3 bucket
 -  from your AWS home console,go to S3  and in the click S3 service.
 -  Click on the "create bucket" button.
